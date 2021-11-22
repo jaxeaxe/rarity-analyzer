@@ -15,14 +15,9 @@ export const Layout = ({ children }:{ children:JSX.Element }) => {
             <div className='header' style={{display: 'flex', flexDirection:'row', padding: 8, alignItems:'flex-start'}}>
                 <div style={{fontSize: 36, marginRight: 16}}>
                     <a href="/">
-                        OpenRarity
+                        Solboxers Rarity
                     {/* <img style={{width: 256}}
                         src={isDark ? '/media/logo_white.png' : '/media/logo_black.png'} alt='site-logo'/> */}
-                    </a>
-                </div>
-                <div style={{fontSize: 20}}>
-                    <a href="https://github.com/cryptoDevAmigos/rarity-analyzer">
-                        <Icon icon='github'/>
                     </a>
                 </div>
                 <div style={{flex:1}}></div>

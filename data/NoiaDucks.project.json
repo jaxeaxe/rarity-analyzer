@@ -1,0 +1,22 @@
+{
+    "name": "NoiaDucks",
+    "symbol": "NDuck",
+    "description": "1000 NoiaDucks SoldOut in 2 minutes! They guarantee 100% Royalty sharing and 51% Profit Sharing from our NFT Marketplace to be deployed.",
+    "image": "https://dl.airtable.com/.attachmentThumbnails/741b3b58b1dcfcc2e4ea307ced36c169/18109b3e",
+    "external_link": "https://t.co/YK3DMe8oKo?amp=1",
+    "links": {
+        "Magiceden": "https://www.magiceden.io/marketplace/noiaducks",
+        "twitter": "https://twitter.com/noiaducks",
+        "discord": "https://t.co/3oSlvi89J6?amp=1"
+    },
+    "theme": {
+        "isDark": true,
+        "back": "#112233",
+        "primary": "#FFBB22",
+        "secondary": "#BEC61A",
+        "highlight": "#FFC61A",
+        "borderWidth": "2px",
+        "borderRadius": "8px",
+        "boxShadowWidth": "8px"
+    }
+}

@@ -23,16 +23,19 @@ body {
 }
 
 body {
-  font-family: 'Orbitron', 'Space Mono', monospace;
+  font-family: 'Dogica Pixel', 'Space Mono', monospace;
   font-weight: 600;
   letter-spacing: 0.1em;
   font-size: 13px;
 }
 
+@font-face { font-family: blox2; src: url(Blox2.ttf); }
 .header, .header a {
-  font-family: 'Orbitron', 'Space Mono', monospace;
+  font-family: 'Blox2', 'Space Mono', monospace;
   font-weight: 600;
+  color: #23dbb2;
   color: var(--black-or-white);
+  justify-content: center;
 }
 .header a:hover {
   color: var(--primary);

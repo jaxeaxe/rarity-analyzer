@@ -237,7 +237,7 @@ export const ProjectInfo = ({project}:{ project:INftProjectMetadataDocument})=>{
                 </div>
                 <div style={{}}>
                     <div style={{display:'flex', flexDirection:'row', justifyContent:'flex-end'}}>
-                        <IconLink url={project.external_link} icon='link'/>
+                        
                         <IconLink url={project.links?.opensea} iconUrl='/media/opensea.png'/>
                         <IconLink url={project.links?.openSea} iconUrl='/media/opensea.png'/>
                         <IconLink url={project.links?.twitter} icon='twitter'/>
